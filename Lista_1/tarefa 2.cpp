@@ -1,5 +1,5 @@
 /*Calcule e escreva a quantidade de dinheiro gasta por um fumante a partir da leitura das
-informações número de anos que ele fuma, quantidade] de cigarros fumados por dia e preço de
+informaÃ§Ãµes nÃºmero de anos que ele fuma, quantidade] de cigarros fumados por dia e preÃ§o de
 uma carteira.*/
 
 #include <iostream>
