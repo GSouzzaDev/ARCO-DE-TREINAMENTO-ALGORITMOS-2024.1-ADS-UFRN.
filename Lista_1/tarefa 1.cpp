@@ -1,5 +1,5 @@
 /*Leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
-Obs: Considere cada mês com 30 dias.*/
+Obs: Considere cada mÃªs com 30 dias.*/
 
 #include <iostream>
 
